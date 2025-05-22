@@ -1,1 +1,0 @@
-import{_ as t,c as e,o,ag as r}from"./chunks/framework.Ds6Eueu6.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"技术支持.md","filePath":"技术支持.md","lastUpdated":1747798921000}'),s={name:"技术支持.md"};function n(_,a,l,i,c,d){return o(),e("div",null,a[0]||(a[0]=[r("",2)]))}const u=t(s,[["render",n]]);export{m as __pageData,u as default};
